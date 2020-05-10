@@ -1,0 +1,134 @@
+#top{
+  border-style: solid;
+  column-count: 2;
+}
+
+.ialbum{
+  margin-left: 300px;
+}
+
+#LoginInfo {
+  column-count: 3;
+  width: 80%;
+  float: right;
+  margin-top: 40px;
+  height: 40px;
+}
+
+#background{
+  background-image: linear-gradient( lightskyblue,white);
+}
+
+.nameInfo{
+  float:right;
+  margin-top: 40px;
+  height: 40px;
+  margin-right: 150px;
+  column-count: 2;
+}
+
+.input_text{
+  width: 60%;
+}
+
+#bottom{
+  border-style: solid;
+}
+
+#left{
+  border-right: solid;
+  width: 20%;
+  float: left;
+}
+
+.bottompart{
+  height: 600px;
+}
+
+.albumlist{
+  margin-top: 60px;
+}
+
+
+.container {
+  float: left;
+  margin-left:75px;
+  margin-top: 20px;
+}
+
+.liker{
+  width: 110px;
+  height: 40px;
+  float:left;
+}
+
+.enlarge{
+  margin-left: 680px;
+  margin-top: 20px;
+}
+
+.liker2{
+  width: 95px;
+  float: left;
+  height: 40px;
+}
+
+.closeButton{
+  float: right;
+  margin-right: 150px;
+}
+
+.uploads{
+  margin-left: 1000px;
+  margin-top: 550px;
+  position: absolute;
+}
+
+.uploadButton{
+  position: absolute
+}
+
+.deleteButton{
+  float: right;
+}
+
+.likeButton{
+  float: right;
+}
+
+.black{
+  color: black;
+}
+
+.blue{
+  color: blue;
+  background-color: lavender;
+  outline: none;
+}
+
+
+#albums{
+  padding-left: 50px;
+  margin-top: 50px;
+}
+
+#albums:hover{
+  background-color: lavender;
+}
+
+.photoliker{
+  margin-left: 330px;
+  width: 380px;
+  float: left
+}
+
+.likedelete{
+  float: right;
+  margin-right: 430px;
+}
+
+
+
+
+
+
